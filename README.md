@@ -1,4 +1,4 @@
-# StartOnAI
+# StartOnAI (https://startonai.com)
 Tutorials for background (Python, Statistics, and Data Processing with Linear Algebra), Machine Learning, and Deep Learning (check out startonai.com for more)
 
 Head and Editor: Siddharth Sharma
