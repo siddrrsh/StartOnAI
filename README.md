@@ -1,5 +1,5 @@
 # StartOnAI
-18 Tutorials for both background (Python, Statistics, and Data Processing with Linear Algebra), Machine Learning, and Deep Learning (check out startonai.com for more)
+Tutorials for background (Python, Statistics, and Data Processing with Linear Algebra), Machine Learning, and Deep Learning (check out startonai.com for more)
 
 Head and Editor: Siddharth Sharma
 Content Creators: Shrey Gupta, Ayush Karupakula, Andy Phung, Aditya Chakka, Keshav Shah, Navein Suresh, and Aurko Roth
